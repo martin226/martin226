@@ -22,3 +22,5 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=martin226&hide=issues&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="martin226" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin226&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=6" alt="martin226" /> |
 | ------------- | ------------- |
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martin226&theme=tokyonight" />
