@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=martin226&label=Profile%20views&color=0e75b6&style=flat" alt="martin226" /> </p>
 
 <p align="center">
-  🔭 I’m currently working on <b>Harvard CS50 Web Programming</b>
+  🔭 I’m currently working on <b>personal projects</b>
 </p>
 
 <p align="center">
