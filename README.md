@@ -9,4 +9,4 @@ You can check out the rest of my projects [here](https://github.com/martin226?ta
 
 Previously, I've worked as a Research Intern at Sunnybrook Research Institute, building deep learning models to accelerate focused ultrasound treatment monitoring.
 
-Feel from to connect with me on [LinkedIn](https://www.linkedin.com/in/martin-sit/)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/martin-sit/)!
