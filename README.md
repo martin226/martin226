@@ -1,6 +1,6 @@
 # Hi 👋, I'm Martin.
 
-<img src="https://komarev.com/ghpvc/?username=martin226&label=Profile%20views&color=0e75b6&style=flat" alt="martin226" />
+![Views Badge](https://komarev.com/ghpvc/?username=martin226&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/website-martinsit.ca-blue)](https://martinsit.ca)
 
 I'm a CS student at the University of Waterloo who loves building cool things. I've been programming since I was 9 years old, and it's been quite a journey—from web development to AI/ML. Here are some of my notable public projects:
 - [LiteNet](https://github.com/martin226/litenet), a C++ neural network framework built from scratch with 0 external dependencies.
