@@ -15,5 +15,6 @@ currently exploring ai agents, mobile apps, and shipping things fast
 
 links:
 - [personal website](https://martinsit.ca/)
+- [X](https://x.com/_martinsit)
 - [LinkedIn](https://linkedin.com/in/martin-sit)
 - [GitHub](https://github.com/martin226) (recursion!)
