@@ -4,10 +4,11 @@
 
 tldr;
 - 18 years old
-- incoming SWE Intern @ [Shopify](https://shopify.com/) (summer 2025)
+- swe intern @ [Shopify](https://shopify.com/)
+- prev @ [Browserbase](https://www.browserbase.com/)
 - cs @ [UWaterloo](https://uwaterloo.ca/)
 - recently:
-  - created [Cursor for 3D modeling](https://tryvibedraw.com/) (3M+ views, profitable, 1,600+ stars, inbound VC interest from Sequoia, a16z, GC, others)
+  - created [Cursor for 3D modeling](https://tryvibedraw.com/) (3M+ views, profitable, 1,800+ stars, inbound VC interest from Sequoia, a16z, GC, others)
   - shipped a [product](https://jakesresu.me/) in < 2 days to 10,000+ users
   - did it again with another [product](https://justslideitin.com/) (1,000+ users in < 24 hours)
   - built a [deep learning framework](https://github.com/martin226/litenet) from scratch in C++
